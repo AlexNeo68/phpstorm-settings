@@ -12,7 +12,6 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
