@@ -12,7 +12,7 @@
       <webServer id="c24f63a8-94ae-4ff2-8d76-0ecd628a38c4" name="nlsc-ruvents" url="https://nlsc.ruvents.com">
         <fileTransfer host="95.213.184.47" port="21">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
