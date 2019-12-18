@@ -17,6 +17,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="6195d7fc-bee1-4efa-9ae5-aea30bad7a92" name="gram.makewww.ru" url="http://gram.makewww.ru">
+        <fileTransfer host="makewww.ru" port="21" rootFolder="/gram.makewww.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
