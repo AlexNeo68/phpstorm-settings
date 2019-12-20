@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="294549ad-431e-4fc9-823b-9ba95f076b1b" name="digitalliteracy" url="http://xn--80aaefw2ahcfbneslds6a8jyb.xn--p1ai">
+        <fileTransfer host="95.213.184.47" port="21" rootFolder="/www">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="97189fc3-07e1-4d96-bd25-12091d83d724" name="bp_vk_post" url="http://bp.makewww.ru">
         <fileTransfer host="makewww.ru" port="21" rootFolder="/bp.makewww.ru">
           <advancedOptions>
