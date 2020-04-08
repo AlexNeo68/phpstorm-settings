@@ -33,6 +33,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="f89f6946-e9eb-43ce-a8df-16d759f8b400" name="dnpline.makewww.ru" url="http://dnpline.makewww.ru">
+        <fileTransfer host="dnpline.makewww.ru" port="21" rootFolder="/dnpline.makewww.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
