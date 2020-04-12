@@ -41,6 +41,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="61c4482e-464c-4655-87bc-f743876830fb" name="pravilotmb.ru" url="https://pravilotmb.ru">
+        <fileTransfer host="pravilotmb.ru" port="21" rootFolder="/pravilotmb.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
