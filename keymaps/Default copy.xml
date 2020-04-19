@@ -28,7 +28,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl meta alt l" />
   </action>
-  <action id="NextProjectWindow" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl end" />
+  </action>
   <action id="ParameterInfo" />
   <action id="Refresh" />
   <action id="Replace" />
