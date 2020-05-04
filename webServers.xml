@@ -1,0 +1,62 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="294549ad-431e-4fc9-823b-9ba95f076b1b" name="digitalliteracy" url="http://xn--80aaefw2ahcfbneslds6a8jyb.xn--p1ai">
+        <fileTransfer host="95.213.184.47" port="21" rootFolder="/www">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="97189fc3-07e1-4d96-bd25-12091d83d724" name="bp_vk_post" url="http://bp.makewww.ru">
+        <fileTransfer host="makewww.ru" port="21" rootFolder="/bp.makewww.ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c24f63a8-94ae-4ff2-8d76-0ecd628a38c4" name="nlsc-ruvents" url="https://nlsc.ruvents.com">
+        <fileTransfer host="95.213.184.47" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6195d7fc-bee1-4efa-9ae5-aea30bad7a92" name="gram.makewww.ru" url="http://gram.makewww.ru">
+        <fileTransfer host="makewww.ru" port="21" rootFolder="/gram.makewww.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f89f6946-e9eb-43ce-a8df-16d759f8b400" name="dnpline.makewww.ru" url="http://dnpline.makewww.ru">
+        <fileTransfer host="dnpline.makewww.ru" port="21" rootFolder="/dnpline.makewww.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="61c4482e-464c-4655-87bc-f743876830fb" name="pravilotmb.ru" url="https://pravilotmb.ru">
+        <fileTransfer host="pravilotmb.ru" port="21" rootFolder="/pravilotmb.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b266bc03-ca07-440e-a1f0-a1f4ea76b4de" name="pravilotmb.ru" url="http://pravilotmb.ru">
+        <fileTransfer host="pravilotmb.ru" port="21" rootFolder="/pravilotmb.ru/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
